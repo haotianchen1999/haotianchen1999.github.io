@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Haotian Chen"
   avatar           : "myphoto.jpg"
-  bio              :# "Researcher, Founder, Developer, Player"
+  #bio              : "Researcher, Founder, Developer, Player"
   location         : "Guangzhou, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
