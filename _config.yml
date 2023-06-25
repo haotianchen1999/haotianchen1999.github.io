@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shuo Yang"
+  name             : "Haotian Chen"
   avatar           : "myphoto.jpg"
   bio              : "Researcher, Founder, Developer, Player"
-  location         : "Philadelphia"
+  location         : "Guangzhou, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=TDoce9gAAAAJ&hl=en&oi=ao"
+  googlescholar    : #"https://scholar.google.com/citations?user=TDoce9gAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,15 +96,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  #github           : "shuoyang2000"
+  #github           : "haotianchen1999"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : shuo-yang-05910b1a6
-  orcid            : "https://orcid.org/0000-0003-1847-6413"
-  #orcid              : ""
+  linkedin         : #shuo-yang-05910b1a6
+  orcid            : #"https://orcid.org/0000-0003-1847-6413"
+  #orcid             # : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
