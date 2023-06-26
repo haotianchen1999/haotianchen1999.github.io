@@ -13,5 +13,5 @@ Welcome to my homepage!
 * Previsouly, I received my Bachelor's degree in <a href="http://english.math.pku.edu.cn/">Statistics</a> from <a href="https://english.pku.edu.cn/">Peking University</a>.
 * I was born in July 1999, Hunan, China. I grew up in [Yueyang](https://en.wikipedia.org/wiki/Yueyang).
 * My research interests are in statistical machine learning and high-dimensional statistics. Recently I am particularly interested in conformal Inference.
-* My Chinese name is 陈浩天 (ch&eacute;n h&agrave;o ti&amacron;n), where 陈 (ch&eacute;n) is my family name and 浩天 (h&agrave;o ti&amacron;n) is my given name. 
+* My Chinese name is 陈浩天 (ch&eacute;n h&agrave;o ti&amacr;n), where 陈 (ch&eacute;n) is my family name and 浩天 (h&agrave;o ti&amacr;n) is my given name. 
 * Please find my resume [here](https://haotianchen1999.github.io/files/HaotianChen_CV.pdf) . You could contact me via email: cht0709 AT pku DOT edu DOT cn
