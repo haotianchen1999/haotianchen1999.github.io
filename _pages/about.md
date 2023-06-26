@@ -16,4 +16,4 @@ redirect_from:
   * Building formal method guided trustworthy and reliable AI system
   * Formal verification and synthesis for discrete-events systems
 * My Chinese name is 陈浩天 (ch&eacute;n h&agrave;o tian), where 陈 (ch&eacute;n) is my family name and 浩天 (h&agrave;o tian) is my given name. 
-* Please find my resume [here](https://shuoyang2000.github.io/files/ShuoYang_CV.pdf) and let me know if you want to collaborate with me. You could contact me via email: cht0709 AT pku DOT edu DOT cn
+* Please find my resume [here](https://shuoyang2000.github.io/files/ShuoYang_CV.pdf) . You could contact me via email: cht0709 AT pku DOT edu DOT cn
