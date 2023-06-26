@@ -20,3 +20,4 @@ Teaching
 ======
 * **Guangzhou Zhixin High School** <span style="float:right">Guangzhou, China</span>
   * Math competition coach for China National High School Mathematics League <span style="float:right">Aug. 2021 - July 2022</span>
+  * Math teacher <span style="float:right">Aug. 2021 - June 2023</span>
