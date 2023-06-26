@@ -14,9 +14,9 @@ Education
 * **Peking University University** <span style="float:right">Beijing, China</span>
   * School of Mathematical Sciences <span style="float:right">Sept. 2017 - June 2021</span>
     * Bachelor of Statistics
-
+    * Advisor: Xiangzhong Fang
 
 Teaching
 ======
-* Teaching Assistant of *Statistics for Data Science* (ESE 5420) <span style="float:right">University of Pennsylvania, Fall 2023</span>
-* Teaching Assistant of *Discrete Mathmatics* <span style="float:right">Shanghai Jiao Tong University, Fall 2020</span>
+* **Guangzhou Zhixin High School** <span style="float:right">Guangzhou, China</span>
+  * Math competition coach for China National High School Mathematics League <span style="float:right">Aug. 2021 - July 2022</span>
