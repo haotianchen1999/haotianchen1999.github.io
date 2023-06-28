@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to my homepage!
-* I'm a math teacher at Guangzhou Zhixin High School in Guangzhou, China.
+* I'm a math teacher at Guangzhou Zhixin High School in [Guangzhou](https://en.wikipedia.org/wiki/Guangzhou), China.
 * Previsouly, I received my Bachelor's degree in <a href="http://english.math.pku.edu.cn/">Statistics</a> from <a href="https://english.pku.edu.cn/">Peking University</a>.
 * I was born in July 1999, Hunan, China. I grew up in [Yueyang](https://en.wikipedia.org/wiki/Yueyang).
 * My research interests are in statistical machine learning and high-dimensional statistics. Recently I am particularly interested in conformal prediction.
