@@ -13,8 +13,14 @@ Education
 ======
 * **Peking University University** <span style="float:right">Beijing, China</span>
   * School of Mathematical Sciences <span style="float:right">Sept. 2017 - June 2021</span>
-    * Bachelor of Statistics
+    * B.S. in Statistics
     * Advisor: Xiangzhong Fang
+
+Internship
+======
+* **University of Pennsylvania** <span style="float:right">Remote</span>
+  * Research Intern <span style="float:right">Aug. 2023 - present</span>
+    * Mentor: Weijie Su
 
 Teaching
 ======
