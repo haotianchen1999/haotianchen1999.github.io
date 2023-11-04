@@ -13,4 +13,4 @@ Welcome to my homepage!
 * Previsouly, I received my Bachelor's degree in <a href="http://english.math.pku.edu.cn/">Statistics</a> from <a href="https://english.pku.edu.cn/">Peking University</a>.
 * I was born in July 1999, Hunan, China. I grew up in [Yueyang](https://en.wikipedia.org/wiki/Yueyang).
 * My research interests are in statistical machine learning, reinforcement learning and high-dimensional statistics. Recently I am particularly interested in conformal prediction.
-* Please find my CV [here](https://haotianchen1999.github.io/files/Haotian Chen_CV.pdf) . You could contact me via email: cht0709 AT pku DOT edu DOT cn
+* Please find my CV [here](https://haotianchen1999.github.io/files/HaotianChen_CV.pdf) . You could contact me via email: cht0709 AT pku DOT edu DOT cn
