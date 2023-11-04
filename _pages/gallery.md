@@ -27,4 +27,4 @@ redirect_from:
 
 <div class="image-container"> <img src="../photos/South Lake.jpg" /><div class="image-caption"><h1_hover>South Lake</h1_hover><p>October 2023</p></div></div>
 
-<div class="image-container"> <img src="../photos/Huangcuo Sand Beach-2.jpg" /><div class="image-caption"><h1_hover>Huangcuo Sand Beach</h1_hover><p>October 2023</p></div></div>
+<div class="image-container"> <img src="../photos/Huangcuo Sand Beach-2.jpg" /><div class="image-caption"><h1_hover>Huangcuo Sand Beach</h1_hover><p>November 2023</p></div></div>
